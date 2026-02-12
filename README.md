@@ -1,10 +1,10 @@
-# 📊 Power BI Business Performance Dashboard
+# 📊 Power BI Business Performance Report
 
 ## 📌 Project Overview
 
 This Power BI report provides a comprehensive business performance analysis across revenue, products, employees, customers, and geographic regions.
 
-The dashboard is structured to support **executive decision-making**, **operational analysis**, and **self-service data exploration**.
+The report is structured to support **executive decision-making**, **operational analysis**, and **self-service data exploration**.
 
 It includes interactive visuals, KPIs, slicers, and mobile-optimized layouts.
 
@@ -12,7 +12,7 @@ It includes interactive visuals, KPIs, slicers, and mobile-optimized layouts.
 
 ## 🧭 Report Structure
 
-### 🔹 Page 1: Executive Summary (Overview Dashboard)
+### 🔹 Page 1: Executive Summary (Overview report)
 
 **Purpose:** Quick business snapshot for leadership
 
@@ -221,7 +221,7 @@ It includes interactive visuals, KPIs, slicers, and mobile-optimized layouts.
 * KPI Design
 * Time Series Analysis
 * Performance Benchmarking
-* Executive Dashboard Design
+* Executive report Design
 
 ---
 
