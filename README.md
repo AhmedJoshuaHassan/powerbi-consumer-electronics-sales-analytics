@@ -236,7 +236,7 @@ It includes interactive visuals, KPIs, slicers, and mobile-optimized layouts.
 
 ## 📎 Repository Contents
 
-* `.pbix` Power BI file
+* `Sales_Performance_Analytics_Report.pbix` Power BI file
 * dataset
 * PDF export version
 * Screenshots
