@@ -237,7 +237,7 @@ It includes interactive visuals, KPIs, slicers, and mobile-optimized layouts.
 ## 📎 Repository Contents
 
 * `.pbix` Power BI file
-* Sample dataset
+* dataset
 * PDF export version
 * Screenshots
 
