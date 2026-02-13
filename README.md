@@ -59,7 +59,7 @@ This dashboard enables:
 
 * `Business_Performance_Dashboard.pbix`
 * PDF Report Version
-* Screenshoots
+* Screenshots
 * Dataset
 
 ---
