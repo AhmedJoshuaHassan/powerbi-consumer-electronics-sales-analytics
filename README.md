@@ -1,4 +1,3 @@
-End-to-end Power BI dashboard analyzing 5 years of consumer electronics sales data with KPI tracking, revenue trends, top/bottom product analysis, employee performance
 
 ---
 
