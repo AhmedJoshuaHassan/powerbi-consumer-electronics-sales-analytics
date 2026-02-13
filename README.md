@@ -57,7 +57,7 @@ This dashboard enables:
 
 📂 Files Included:
 
-* `Business_Performance_Dashboard.pbix`
+* `Sales_Performance_Analytics_Report.pbix`
 * PDF Report Version
 * Screenshots
 * Dataset
