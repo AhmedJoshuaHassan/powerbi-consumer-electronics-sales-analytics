@@ -39,7 +39,6 @@ The report transforms raw sales data into executive-level insights to support st
 * DAX Measures & KPIs
 * Data Modeling
 * Top/Bottom N Analysis
-* Time Series Analysis
 * Geographic Mapping
 * Business Insight Communication
 
@@ -60,5 +59,7 @@ This dashboard enables:
 
 * `Business_Performance_Dashboard.pbix`
 * PDF Report Version
+* Screenshoots
+* Dataset
 
 ---
